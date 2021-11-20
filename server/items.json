@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Blue",
+        "priceInCents": 10000,
+        "file": "blue.txt",
+        "listId": 6
+    },
+    {
+        "id": 2,
+        "name": "Orange",
+        "priceInCents": 20000,
+        "file": "orange.txt",
+        "listId": 7
+    },
+    {
+        "id": 3,
+        "name": "Yellow",
+        "priceInCents": 30000,
+        "file": "yellow.txt",
+        "listId": 8
+    },
+    {
+        "id": 4,
+        "name": "White",
+        "priceInCents": 15000,
+        "file": "white.txt",
+        "listId": 9
+    },
+    {
+        "id": 5,
+        "name": "Black",
+        "priceInCents": 22000,
+        "file": "black.txt",
+        "listId": 10
+    }
+]
